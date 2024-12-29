@@ -1,0 +1,502 @@
+[
+  {
+    "instruction": "Answer the question based on the description and options provided. Choose the correct answer by selecting the corresponding letter.",
+    "input": "In a series of mathematical operations, if A = 2, B = A + 3, C = B * 2, and D = C / 2, what is the value of D? Options: (A) 1 (B) 2 (C) 4 (D) 5",
+    "output": "(D)"
+  },
+  {
+    "instruction": "Answer the question based on the description and options provided. Choose the correct answer by selecting the corresponding letter.",
+    "input": "In a simple algebra problem, if x + 3 = 7, what is the value of x? Options: (A) 4 (B) 10 (C) -3 (D) 7",
+    "output": "(A)"
+  },
+  {
+    "instruction": "Answer the question based on the description and options provided. Choose the correct answer by selecting the corresponding letter.",
+    "input": "A container has 5 liters of water initially. If 3 liters are added, how many liters of water are there in total? Options: (A) 2 liters (B) 8 liters (C) 5 liters (D) 7 liters",
+    "output": "(B)"
+  },
+  {
+    "instruction": "Answer the question based on the description and options provided. Choose the correct answer by selecting the corresponding letter.",
+    "input": "In a set of numbers, if the average of 10, 20, and 30 is calculated, what is the result? Options: (A) 10 (B) 20 (C) 30 (D) 40",
+    "output": "(B)"
+  },
+  {
+    "instruction": "Answer the question based on the description and options provided. Choose the correct answer by selecting the corresponding letter.",
+    "input": "If a book has 200 pages and a reader reads 50 pages a day, how many days will it take to finish the book? Options: (A) 4 days (B) 5 days (C) 3 days (D) 10 days",
+    "output": "(A)"
+  },
+  {
+    "instruction": "Answer the question based on the description and options provided. Choose the correct answer by selecting the corresponding letter.",
+    "input": "In a sequence of numbers, if each term is double the previous term and the first term is 2, what is the third term? Options: (A) 4 (B) 6 (C) 8 (D) 16",
+    "output": "(C)"
+  },
+  {
+    "instruction": "Answer the question based on the description and options provided. Choose the correct answer by selecting the corresponding letter.",
+    "input": "If the cost of one apple is 2 dollars and one buys 4 apples, what is the total cost? Options: (A) 6 dollars (B) 8 dollars (C) 4 dollars (D) 10 dollars",
+    "output": "(B)"
+  },
+  {
+    "instruction": "Answer the question based on the description and options provided. Choose the correct answer by selecting the corresponding letter.",
+    "input": "In a set of temperatures, if the highest temperature is 85°F and the lowest is 65°F, what is the range of temperatures? Options: (A) 15°F (B) 20°F (C) 10°F (D) 5°F",
+    "output": "(B)"
+  },
+  {
+    "instruction": "Answer the question based on the description and options provided. Choose the correct answer by selecting the corresponding letter.",
+    "input": "If a car travels at a constant speed of 60 miles per hour and it travels for 2 hours, how far does it go? Options: (A) 80 miles (B) 120 miles (C) 60 miles (D) 180 miles",
+    "output": "(B)"
+  },
+  {
+    "instruction": "Answer the question based on the description and options provided. Choose the correct answer by selecting the corresponding letter.",
+    "input": "A library has a total of 120 books. If the number of fiction books is three times the number of non-fiction books, how many non-fiction books are there? Options: (A) 30 (B) 40 (C) 24 (D) 36",
+    "output": "(A)"
+  },
+  {
+    "instruction": "Answer the question based on the description and options provided. Choose the correct answer by selecting the corresponding letter.",
+    "input": "If the sum of three consecutive integers is 45, what is the middle integer? Options: (A) 14 (B) 15 (C) 16 (D) 17",
+    "output": "(B)"
+  },
+  {
+    "instruction": "Answer the question based on the description and options provided. Choose the correct answer by selecting the corresponding letter.",
+    "input": "In a right triangle, the square of the hypotenuse is equal to the sum of the squares of the other two sides. If one leg is 3 units and the other leg is 4 units, what is the length of the hypotenuse? Options: (A) 5 (B) 6 (C) 7 (D) 8",
+    "output": "(A)"
+  },
+  {
+    "instruction": "Answer the question based on the description and options provided. Choose the correct answer by selecting the corresponding letter.",
+    "input": "If the price of an item is increased by 50% and then decreased by 50%, what is the final price as a percentage of the original price? Options: (A) 75% (B) 50% (C) 100% (D) 25%",
+    "output": "(A)"
+  },
+  {
+    "instruction": "Answer the question based on the description and options provided. Choose the correct answer by selecting the corresponding letter.",
+    "input": "In a geological study, three types of rock formations were analyzed for their resistance to erosion. Formation X showed an erosion rate of 2 cm per year, Formation Y of 1.5 cm per year, and Formation Z of 2.5 cm per year. Which formation is the most resistant to erosion? Options: (A) Formation X (B) Formation Y (C) Formation Z",
+    "output": "(B)"
+  },
+  {
+    "instruction": "Answer the question based on the description and options provided. Choose the correct answer by selecting the corresponding letter.",
+    "input": "An economist analyzed the impact of different factors on a country's GDP growth. Factor X resulted in a 2% increase, Factor Y in a 3% increase, and Factor Z in a 1.5% increase. To maximize GDP growth, which factor should the country focus on? Options: (A) Factor X (B) Factor Y (C) Factor Z",
+    "output": "(B)"
+  },
+  {
+    "instruction": "Answer the question based on the description and options provided. Choose the correct answer by selecting the corresponding letter.",
+    "input": "During a physics experiment, students measured the speed of sound in different media. In air, the speed was 343 meters per second, in water it was 1482 meters per second, and in steel it was 5200 meters per second. Which medium has the slowest speed of sound? Options: (A) Air (B) Water (C) Steel",
+    "output": "(A)"
+  },
+  {
+    "instruction": "Answer the question based on the description and options provided. Choose the correct answer by selecting the corresponding letter.",
+    "input": "A chemist synthesized a new compound and tested its stability at different temperatures. At 25°C, the compound was stable for 2 hours, at 50°C for 1 hour, and at 100°C for 30 minutes. To ensure the longest stability time for the compound, which temperature should be maintained? Options: (A) 25°C (B) 50°C (C) 100°C",
+    "output": "(A)"
+  },
+  {
+    "instruction": "Answer the question based on the description and options provided. Choose the correct answer by selecting the corresponding letter.",
+    "input": "In a historical analysis of different civilizations, it was found that Civilization A lasted 500 years, Civilization B lasted 1200 years, and Civilization C lasted 300 years. Which civilization had the longest duration? Options: (A) Civilization A (B) Civilization B (C) Civilization C",
+    "output": "(B)"
+  },
+  {
+    "instruction": "Answer the question based on the description and options provided. Choose the correct answer by selecting the corresponding letter.",
+    "input": "Astronomers observed the brightness of three stars. Star A has an apparent magnitude of 3.5, Star B of 4.5, and Star C of 2.8. The lower the magnitude, the brighter the star. Which star is the brightest? Options: (A) Star A (B) Star B (C) Star C",
+    "output": "(C)"
+  },
+  {
+    "instruction": "Answer the question based on the description and options provided. Choose the correct answer by selecting the corresponding letter.",
+    "input": "In a chemical reaction, Catalyst A increased the reaction rate by 15%, Catalyst B by 20%, and Catalyst C by 10%. To achieve the fastest reaction rate, which catalyst should be used? Options: (A) Catalyst A (B) Catalyst B (C) Catalyst C",
+    "output": "(B)"
+  },
+  {
+    "instruction": "Answer the question based on the description and options provided. Choose the correct answer by selecting the corresponding letter.",
+    "input": "During an archaeological excavation, three artifacts were found. Artifact X was dated to be 300 years old, Artifact Y to 500 years old, and Artifact Z to 1000 years old. Which artifact is the youngest? Options: (A) Artifact X (B) Artifact Y (C) Artifact Z",
+    "output": "(A)"
+  },
+  {
+    "instruction": "Answer the question based on the description and options provided. Choose the correct answer by selecting the corresponding letter.",
+    "input": "In a study on plant photosynthesis, Plant A absorbed 2 grams of CO2 per hour, Plant B absorbed 3 grams, and Plant C absorbed 1.5 grams. Which plant has the highest rate of CO2 absorption? Options: (A) Plant A (B) Plant B (C) Plant C",
+    "output": "(B)"
+  },
+  {
+    "instruction": "Answer the question based on the description and options provided. Choose the correct answer by selecting the corresponding letter.",
+    "input": "A hydrologist measured the flow rate of three rivers. River A had a flow rate of 50 cubic meters per second, River B of 75, and River C of 30. Which river has the slowest flow rate? Options: (A) River A (B) River B (C) River C",
+    "output": "(C)"
+  },
+  {
+    "instruction": "Answer the question based on the description and options provided. Choose the correct answer by selecting the corresponding letter.",
+    "input": "In a physics experiment, three different materials were tested for their electrical conductivity. Material X conducted electricity at a rate of 10 Siemens per meter, Material Y at 5, and Material Z at 20. Which material is the best conductor of electricity? Options: (A) Material X (B) Material Y (C) Material Z",
+    "output": "(C)"
+  },
+  {
+    "instruction": "Answer the question based on the description and options provided. Choose the correct answer by selecting the corresponding letter.",
+    "input": "A meteorologist recorded the average wind speeds in three different locations. Location A had an average wind speed of 10 meters per second, Location B of 15, and Location C of 5. Which location has the calmest winds? Options: (A) Location A (B) Location B (C) Location C",
+    "output": "(C)"
+  },
+  {
+    "instruction": "Answer the question based on the description and options provided. Choose the correct answer by selecting the corresponding letter.",
+    "input": "In a zoological study, three species of birds were observed for their flight patterns. Species A flew an average of 200 km per day, Species B of 150 km, and Species C of 300 km. Which species flies the farthest in a day? Options: (A) Species A (B) Species B (C) Species C",
+    "output": "(C)"
+  },
+  {
+    "instruction": "Answer the question based on the description and options provided. Choose the correct answer by selecting the corresponding letter.",
+    "input": "In an electrical engineering problem, a circuit has a resistance of 10 ohms and a voltage of 5 volts. What is the current in the circuit? Options: (A) 0.5 amperes (B) 1.25 amperes (C) 5 amperes (D) 10 amperes",
+    "output": "(B)"
+  },
+  {
+    "instruction": "Answer the question based on the description and options provided. Choose the correct answer by selecting the corresponding letter.",
+    "input": "A biologist is studying the growth rates of different species of bacteria. Bacteria A doubles every 2 hours, Bacteria B every 3 hours, and Bacteria C every 4 hours. Which bacteria doubles the fastest? Options: (A) Bacteria A (B) Bacteria B (C) Bacteria C",
+    "output": "(A)"
+  },
+  {
+    "instruction": "Answer the question based on the description and options provided. Choose the correct answer by selecting the corresponding letter.",
+    "input": "A mechanical engineer is calculating the force required to move an object. The object has a mass of 5 kg and is on a surface with a coefficient of friction of 0.2. The force applied is 50 N. What is the acceleration of the object? Options: (A) 5 m/s² (B) 10 m/s² (C) 15 m/s² (D) 20 m/s²",
+    "output": "(C)"
+  },
+  {
+    "instruction": "Answer the question based on the description and options provided. Choose the correct answer by selecting the corresponding letter.",
+    "input": "In a computer science problem, a program has an algorithm with a time complexity of O(n log n), another with O(n²), and another with O(n). Which algorithm is the most efficient for large values of n? Options: (A) O(n log n) (B) O(n²) (C) O(n)",
+    "output": "(C)"
+  },
+  {
+    "instruction": "Answer the question based on the description and options provided. Choose the correct answer by selecting the corresponding letter.",
+    "input": "A statistician is analyzing the variance of three datasets. Dataset A has a variance of 4, Dataset B of 9, and Dataset C of 1. Which dataset has the most consistent values? Options: (A) Dataset A (B) Dataset B (C) Dataset C",
+    "output": "(C)"
+  },
+  {
+    "instruction": "Answer the question based on the description and options provided. Choose the correct answer by selecting the corresponding letter.",
+    "input": "In a thermodynamics problem, a gas has an initial volume of 2 liters and is expanded to a final volume of 8 liters. If the temperature remains constant, what is the final pressure of the gas if the initial pressure was 10 atmospheres? Options: (A) 5 atmospheres (B) 2.5 atmospheres (C) 20 atmospheres (D) 10 atmospheres",
+    "output": "(B)"
+  },
+  {
+    "instruction": "Answer the question based on the description and options provided. Choose the correct answer by selecting the corresponding letter.",
+    "input": "A horticulturist is comparing the water requirements of different plants. Plant A requires 2 liters of water per week, Plant B requires 5 liters, and Plant C requires 1 liter. Which plant requires the least amount of water? Options: (A) Plant A (B) Plant B (C) Plant C",
+    "output": "(C)"
+  },
+  {
+    "instruction": "Answer the question based on the description and options provided. Choose the correct answer by selecting the corresponding letter.",
+    "input": "In an optics problem, a beam of light passes through a lens with a focal length of 10 cm. If the object is placed 25 cm from the lens, what is the image distance? Options: (A) 5 cm (B) 10 cm (C) 15 cm (D) 20 cm",
+    "output": "(D)"
+  },
+  {
+    "instruction": "Answer the question based on the description and options provided. Choose the correct answer by selecting the corresponding letter.",
+    "input": "A marine biologist measures the swimming speeds of three species of fish. Fish A swims at 10 km/h, Fish B at 15 km/h, and Fish C at 5 km/h. Which fish is the fastest? Options: (A) Fish A (B) Fish B (C) Fish C",
+    "output": "(B)"
+  },
+  {
+    "instruction": "Answer the question based on the description and options provided. Choose the correct answer by selecting the corresponding letter.",
+    "input": "In a chemistry experiment, a reaction produces 15 grams of a product. If the reaction yield is 75%, what is the theoretical yield of the product? Options: (A) 10 grams (B) 20 grams (C) 5 grams (D) 40 grams",
+    "output": "(B)"
+  },
+  {
+    "instruction": "Answer the question based on the description and options provided. Choose the correct answer by selecting the corresponding letter.",
+    "input": "A meteorologist records the rainfall data for a week. Monday had 2 mm of rain, Tuesday had 5 mm, Wednesday had 3 mm, Thursday had 4 mm, and Friday had 6 mm. Which day had the least rainfall? Options: (A) Monday (B) Tuesday (C) Wednesday",
+    "output": "(A)"
+  },
+  {
+    "instruction": "Answer the question based on the description and options provided. Choose the correct answer by selecting the corresponding letter.",
+    "input": "Which statement expresses an opposite opinion? Options: (A) She’s a fantastic friend, always there to support you when you need it. (B) She’s such a lousy friend, never around when you need her.",
+    "output": "(B)"
+  },
+  {
+    "instruction": "Answer the question based on the description and options provided. Choose the correct answer by selecting the corresponding letter.",
+    "input": "Which type of exercise is best for improving cardiovascular health? Options: (A) Weight lifting, which focuses on building muscle. (B) Swimming, which is a great cardiovascular exercise. (C) Yoga, which is known for its flexibility benefits.",
+    "output": "(B)"
+  },
+  {
+    "instruction": "Answer the question based on the description and options provided. Choose the correct answer by selecting the corresponding letter.",
+    "input": "Which food is known for being high in protein? Options: (A) Apples, which are high in fiber. (B) Chicken, which is a good source of protein. (C) Potatoes, which are high in carbohydrates.",
+    "output": "(B)"
+  },
+  {
+    "instruction": "Answer the question based on the description and options provided. Choose the correct answer by selecting the corresponding letter.",
+    "input": "Which season is known for its cold weather? Options: (A) Summer, which is the warmest season. (B) Winter, which is the coldest season. (C) Spring, which is known for its moderate temperatures.",
+    "output": "(B)"
+  },
+  {
+    "instruction": "Answer the question based on the description and options provided. Choose the correct answer by selecting the corresponding letter.",
+    "input": "Which subject is part of the STEM curriculum? Options: (A) Literature, which is a humanities subject. (B) Mathematics, which is a core STEM subject. (C) Art, which is typically considered a fine art subject.",
+    "output": "(B)"
+  },
+  {
+    "instruction": "Answer the question based on the description and options provided. Choose the correct answer by selecting the corresponding letter.",
+    "input": "Which activity is typically done in the evening? Options: (A) Sunbathing, which is usually done during the day. (B) Watching television, which is often done in the evening. (C) Gardening, which is typically done during the day.",
+    "output": "(B)"
+  },
+  {
+    "instruction": "Answer the question based on the description and options provided. Choose the correct answer by selecting the corresponding letter.",
+    "input": "Which is a characteristic of a professional work environment? Options: (A) Casual attire, which is common in relaxed environments. (B) Formal attire, which is often required in professional settings. (C) Loud music, which is generally not appropriate in a professional environment.",
+    "output": "(B)"
+  },
+  {
+    "instruction": "Answer the question based on the description and options provided. Choose the correct answer by selecting the corresponding letter.",
+    "input": "Which is a common feature of urban areas? Options: (A) Sparse population, which is more typical of rural areas. (B) High population density, which is characteristic of urban areas. (C) Wide-open spaces, which are more common in rural settings.",
+    "output": "(B)"
+  },
+  {
+    "instruction": "Answer the question based on the description and options provided. Choose the correct answer by selecting the corresponding letter.",
+    "input": "Which is a benefit of regular exercise? Options: (A) Increased risk of heart disease, which is not a benefit. (B) Improved mental health, which is a well-known benefit. (C) Weight gain, which is not typically a goal of exercise.",
+    "output": "(B)"
+  },
+  {
+    "instruction": "Answer the question based on the description and options provided. Choose the correct answer by selecting the corresponding letter.",
+    "input": "Which is a type of renewable energy? Options: (A) Solar power, which is harnessed from the sun. (B) Fossil fuels, which are not renewable. (C) Nuclear energy, which is not considered renewable.",
+    "output": "(A)"
+  },
+  {
+    "instruction": "Answer the question based on the description and options provided. Choose the correct answer by selecting the corresponding letter.",
+    "input": "In an electrical engineering problem, a circuit has a resistance of 10 ohms and a voltage of 5 volts. What is the current in the circuit? Options: (A) 0.5 amperes (B) 1.25 amperes (C) 5 amperes (D) 10 amperes",
+    "output": "(B)"
+  },
+  {
+    "instruction": "Answer the question based on the description and options provided. Choose the correct answer by selecting the corresponding letter.",
+    "input": "A biologist is studying the growth rates of different species of bacteria. Bacteria A doubles every 2 hours, Bacteria B every 3 hours, and Bacteria C every 4 hours. Which bacteria doubles the fastest? Options: (A) Bacteria A (B) Bacteria B (C) Bacteria C",
+    "output": "(A)"
+  },
+  {
+    "instruction": "Answer the question based on the description and options provided. Choose the correct answer by selecting the corresponding letter.",
+    "input": "A mechanical engineer is calculating the force required to move an object. The object has a mass of 5 kg and is on a surface with a coefficient of friction of 0.2. The force applied is 50 N. What is the acceleration of the object? Options: (A) 5 m/s² (B) 10 m/s² (C) 15 m/s² (D) 20 m/s²",
+    "output": "(C)"
+  },
+  {
+    "instruction": "Answer the question based on the description and options provided. Choose the correct answer by selecting the corresponding letter.",
+    "input": "In a computer science problem, a program has an algorithm with a time complexity of O(n log n), another with O(n²), and another with O(n). Which algorithm is the most efficient for large values of n? Options: (A) O(n log n) (B) O(n²) (C) O(n)",
+    "output": "(C)"
+  },
+  {
+    "instruction": "Answer the question based on the description and options provided. Choose the correct answer by selecting the corresponding letter.",
+    "input": "A statistician is analyzing the variance of three datasets. Dataset A has a variance of 4, Dataset B of 9, and Dataset C of 1. Which dataset has the most consistent values? Options: (A) Dataset A (B) Dataset B (C) Dataset C",
+    "output": "(C)"
+  },
+  {
+    "instruction": "Answer the question based on the description and options provided. Choose the correct answer by selecting the corresponding letter.",
+    "input": "In a thermodynamics problem, a gas has an initial volume of 2 liters and is expanded to a final volume of 8 liters. If the temperature remains constant, what is the final pressure of the gas if the initial pressure was 10 atmospheres? Options: (A) 5 atmospheres (B) 2.5 atmospheres (C) 20 atmospheres (D) 10 atmospheres",
+    "output": "(B)"
+  },
+  {
+    "instruction": "Answer the question based on the description and options provided. Choose the correct answer by selecting the corresponding letter.",
+    "input": "A horticulturist is comparing the water requirements of different plants. Plant A requires 2 liters of water per week, Plant B requires 5 liters, and Plant C requires 1 liter. Which plant requires the least amount of water? Options: (A) Plant A (B) Plant B (C) Plant C",
+    "output": "(C)"
+  },
+  {
+    "instruction": "Answer the question based on the description and options provided. Choose the correct answer by selecting the corresponding letter.",
+    "input": "In an optics problem, a beam of light passes through a lens with a focal length of 10 cm. If the object is placed 25 cm from the lens, what is the image distance? Options: (A) 5 cm (B) 10 cm (C) 15 cm (D) 20 cm",
+    "output": "(D)"
+  },
+  {
+    "instruction": "Answer the question based on the description and options provided. Choose the correct answer by selecting the corresponding letter.",
+    "input": "A marine biologist measures the swimming speeds of three species of fish. Fish A swims at 10 km/h, Fish B at 15 km/h, and Fish C at 5 km/h. Which fish is the fastest? Options: (A) Fish A (B) Fish B (C) Fish C",
+    "output": "(B)"
+  },
+  {
+    "instruction": "Answer the question based on the description and options provided. Choose the correct answer by selecting the corresponding letter.",
+    "input": "In a chemistry experiment, a reaction produces 15 grams of a product. If the reaction yield is 75%, what is the theoretical yield of the product? Options: (A) 10 grams (B) 20 grams (C) 5 grams (D) 40 grams",
+    "output": "(B)"
+  },
+  {
+    "instruction": "Answer the question based on the description and options provided. Choose the correct answer by selecting the corresponding letter.",
+    "input": "A meteorologist records the rainfall data for a week. Monday had 2 mm of rain, Tuesday had 5 mm, Wednesday had 3 mm, Thursday had 4 mm, and Friday had 6 mm. Which day had the least rainfall? Options: (A) Monday (B) Tuesday (C) Wednesday",
+    "output": "(A)"
+  },
+  {
+    "instruction": "Answer the question based on the description and options provided. Choose the correct answer by selecting the corresponding letter.",
+    "input": "In a mathematical puzzle, the sum of two numbers is 10 and their product is 20. If one number is 4, what is the other number? Options: (A) 6 (B) 5 (C) 3 (D) 2",
+    "output": "(C)"
+  },
+  {
+    "instruction": "Answer the question based on the description and options provided. Choose the correct answer by selecting the corresponding letter.",
+    "input": "Astronomers observe a star cluster where the distance between two stars is 10 light-years and the distance between another pair is 15 light-years. What is the ratio of the distances? Options: (A) 2:3 (B) 3:2 (C) 1:1.5 (D) 1:2",
+    "output": "(A)"
+  },
+  {
+    "instruction": "Answer the question based on the description and options provided. Choose the correct answer by selecting the corresponding letter.",
+    "input": "In a chemical compound, the ratio of hydrogen atoms to oxygen atoms is 2:1. If there are 8 hydrogen atoms, how many oxygen atoms are there? Options: (A) 4 (B) 12 (C) 6 (D) 2",
+    "output": "(A)"
+  },
+  {
+    "instruction": "Answer the question based on the description and options provided. Choose the correct answer by selecting the corresponding letter.",
+    "input": "A biologist measures the lifespans of three species of insects. Insect A lives for 2 weeks, Insect B for 3 weeks, and Insect C for 1 week. Which insect has the longest lifespan? Options: (A) Insect A (B) Insect B (C) Insect C",
+    "output": "(B)"
+  },
+  {
+    "instruction": "Answer the question based on the description and options provided. Choose the correct answer by selecting the corresponding letter.",
+    "input": "In a physics problem, a ball is thrown vertically upwards with an initial velocity of 20 m/s. If the acceleration due to gravity is -9.8 m/s², what is the velocity of the ball after 2 seconds? Options: (A) 0 m/s (B) 10.4 m/s (C) -10.4 m/s (D) 20 m/s",
+    "output": "(B)"
+  },
+  {
+    "instruction": "Answer the question based on the description and options provided. Choose the correct answer by selecting the corresponding letter.",
+    "input": "A hydrologist measures the flow rate of a river at two different times. Initially, the flow rate is 2 m³/s and after a rainfall, it increases to 3 m³/s. What is the percentage increase in the flow rate? Options: (A) 25% (B) 50% (C) 75% (D) 100%",
+    "output": "(C)"
+  },
+  {
+    "instruction": "Answer the question based on the description and options provided. Choose the correct answer by selecting the corresponding letter.",
+    "input": "In a computer science problem, a sorting algorithm takes 100 milliseconds to sort an array of 1000 elements. How long does it take to sort an array of 2000 elements, assuming the time complexity is O(n log n)? Options: (A) 200 ms (B) 300 ms (C) 400 ms (D) 100 ms",
+    "output": "(C)"
+  },
+  {
+    "instruction": "Answer the question based on the description and options provided. Choose the correct answer by selecting the corresponding letter.",
+    "input": "A geologist measures the thickness of different rock layers. Layer A is 5 meters thick, Layer B is 10 meters thick, and Layer C is 15 meters thick. Which layer is the thinnest? Options: (A) Layer A (B) Layer B (C) Layer C",
+    "output": "(A)"
+  },
+  {
+    "instruction": "Answer the question based on the description and options provided. Choose the correct answer by selecting the corresponding letter.",
+    "input": "In a botanical study, the growth rates of three species of plants are measured. Plant A grows 2 cm per week, Plant B grows 3 cm, and Plant C grows 1 cm. Which plant grows the slowest? Options: (A) Plant A (B) Plant B (C) Plant C",
+    "output": "(C)"
+  },
+  {
+    "instruction": "Answer the question based on the description and options provided. Choose the correct answer by selecting the corresponding letter.",
+    "input": "In a mathematical sequence, each term is the sum of the two preceding terms. If the first two terms are 1 and 1, what is the third term? Options: (A) 1 (B) 2 (C) 3 (D) 4",
+    "output": "(B)"
+  },
+  {
+    "instruction": "Answer the question based on the description and options provided. Choose the correct answer by selecting the corresponding letter.",
+    "input": "A zoologist records the heart rates of different species of animals. The heart rate of Animal A is 70 beats per minute, Animal B is 120, and Animal C is 30. Which animal has the slowest heart rate? Options: (A) Animal A (B) Animal B (C) Animal C",
+    "output": "(C)"
+  },
+  {
+    "instruction": "Answer the question based on the description and options provided. Choose the correct answer by selecting the corresponding letter.",
+    "input": "If a baker has 30 loaves of bread and gives away 10 each day, how many days can he give away the bread before running out? Options: (A) 2 days (B) 3 days (C) 4 days (D) 5 days",
+    "output": "(B)"
+  },
+  {
+    "instruction": "Answer the question based on the description and options provided. Choose the correct answer by selecting the corresponding letter.",
+    "input": "An athlete runs 10 miles every morning. If she plans to run a total of 100 miles in a week, how many days does she need to run per week? Options: (A) 5 days (B) 10 days (C) 1 day (D) 2 days",
+    "output": "(B)"
+  },
+  {
+    "instruction": "Answer the question based on the description and options provided. Choose the correct answer by selecting the corresponding letter.",
+    "input": "A carpenter builds 3 tables in one day. If he wants to build 21 tables in a week, how many days should he work? Options: (A) 7 days (B) 5 days (C) 6 days (D) 8 days",
+    "output": "(A)"
+  },
+  {
+    "instruction": "Answer the question based on the description and options provided. Choose the correct answer by selecting the corresponding letter.",
+    "input": "A student reads 2 chapters of a textbook every evening. If the textbook has 30 chapters, how many evenings will it take for the student to finish reading? Options: (A) 15 evenings (B) 10 evenings (C) 30 evenings (D) 15 days",
+    "output": "(B)"
+  },
+  {
+    "instruction": "Answer the question based on the description and options provided. Choose the correct answer by selecting the corresponding letter.",
+    "input": "A farmer plants 5 trees each month. How many months will it take him to plant 60 trees? Options: (A) 12 months (B) 10 months (C) 15 months (D) 1 month",
+    "output": "(B)"
+  },
+  {
+    "instruction": "Answer the question based on the description and options provided. Choose the correct answer by selecting the corresponding letter.",
+    "input": "A painter can paint one room in 3 hours. If there are 9 rooms to be painted, how many hours will it take for him to paint all the rooms? Options: (A) 27 hours (B) 18 hours (C) 9 hours (D) 24 hours",
+    "output": "(A)"
+  },
+  {
+    "instruction": "Answer the question based on the description and options provided. Choose the correct answer by selecting the corresponding letter.",
+    "input": "A teacher has 40 essays to grade and plans to grade 5 essays each day. How many days will it take for her to grade all the essays? Options: (A) 8 days (B) 7 days (C) 6 days (D) 5 days",
+    "output": "(A)"
+  },
+  {
+    "instruction": "Answer the question based on the description and options provided. Choose the correct answer by selecting the corresponding letter.",
+    "input": "A gardener plants 10 flowers every hour. If he wants to plant 100 flowers, how many hours will it take him? Options: (A) 10 hours (B) 20 hours (C) 15 hours (D) 5 hours",
+    "output": "(A)"
+  },
+  {
+    "instruction": "Answer the question based on the description and options provided. Choose the correct answer by selecting the corresponding letter.",
+    "input": "A writer types 3 pages of a novel each evening. If the novel is 45 pages long, how many evenings will it take to finish writing the novel? Options: (A) 15 evenings (B) 10 evenings (C) 5 evenings (D) 18 evenings",
+    "output": "(A)"
+  },
+  {
+    "instruction": "Answer the question based on the description and options provided. Choose the correct answer by selecting the corresponding letter.",
+    "input": "A chef makes 4 pizzas in an hour. If he needs to make 48 pizzas, how many hours will it take him? Options: (A) 12 hours (B) 10 hours (C) 14 hours (D) 15 hours",
+    "output": "(A)"
+  },
+  {
+    "instruction": "Answer the question based on the description and options provided. Choose the correct answer by selecting the corresponding letter.",
+    "input": "If a book has 200 pages and a reader reads 50 pages a day, how many days will it take to finish the book? Options: (A) 4 days (B) 5 days (C) 3 days (D) 10 days",
+    "output": "(A)"
+  },
+  {
+    "instruction": "Answer the question based on the description and options provided. Choose the correct answer by selecting the corresponding letter.",
+    "input": "If a book has 200 pages and a reader reads 50 pages a day, how many days will it take to finish the book? Options: (A) 4 days (B) 3 days (C) 5 days (D) 10 days",
+    "output": "(A)"
+  },
+  {
+    "instruction": "Answer the question based on the description and options provided. Choose the correct answer by selecting the corresponding letter.",
+    "input": "If a car travels 300 km at a speed of 60 km/h, how many hours will it take to reach the destination? Options: (A) 5 hours (B) 6 hours (C) 4 hours (D) 3 hours",
+    "output": "(A)"
+  },
+  {
+    "instruction": "Answer the question based on the description and options provided. Choose the correct answer by selecting the corresponding letter.",
+    "input": "If a person saves $20 each week, how much will they have saved after 10 weeks? Options: (A) $200 (B) $180 (C) $160 (D) $120",
+    "output": "(A)"
+  },
+  {
+    "instruction": "Answer the question based on the description and options provided. Choose the correct answer by selecting the corresponding letter.",
+    "input": "If a recipe requires 2 cups of sugar for every 3 cups of flour, how many cups of sugar are needed for 9 cups of flour? Options: (A) 6 cups (B) 5 cups (C) 4.5 cups (D) 3.6 cups",
+    "output": "(A)"
+  },
+  {
+    "instruction": "Answer the question based on the description and options provided. Choose the correct answer by selecting the corresponding letter.",
+    "input": "If a company produces 150 units a day and operates for 20 days a month, how many units are produced in a month? Options: (A) 3000 units (B) 2500 units (C) 3500 units (D) 2000 units",
+    "output": "(A)"
+  },
+  {
+    "instruction": "Answer the question based on the description and options provided. Choose the correct answer by selecting the corresponding letter.",
+    "input": "If a garden has 4 rows of 15 plants each, how many plants are there in total? Options: (A) 60 plants (B) 50 plants (C) 45 plants (D) 80 plants",
+    "output": "(A)"
+  },
+  {
+    "instruction": "Answer the question based on the description and options provided. Choose the correct answer by selecting the corresponding letter.",
+    "input": "If a student reads 10 pages in 15 minutes, how many pages will they read in 1 hour? Options: (A) 40 pages (B) 30 pages (C) 24 pages (D) 60 pages",
+    "output": "(A)"
+  },
+  {
+    "instruction": "Answer the question based on the description and options provided. Choose the correct answer by selecting the corresponding letter.",
+    "input": "If a store sells 5 apples for $3, how much does one apple cost? Options: (A) $0.60 (B) $0.50 (C) $0.75 (D) $0.80",
+    "output": "(A)"
+  },
+  {
+    "instruction": "Answer the question based on the description and options provided. Choose the correct answer by selecting the corresponding letter.",
+    "input": "If a triangle has two sides of length 5 and 7, what is the possible range for the third side? Options: (A) 2 to 12 (B) 3 to 11 (C) 4 to 10 (D) 5 to 9",
+    "output": "(A)"
+  },
+  {
+    "instruction": "Answer the question based on the description and options provided. Choose the correct answer by selecting the corresponding letter.",
+    "input": "If a rectangle has a length of 8 cm and a width of 4 cm, what is its area? Options: (A) 32 cm² (B) 24 cm² (C) 16 cm² (D) 64 cm²",
+    "output": "(A)"
+  },
+  {
+    "instruction": "Answer the question based on the description and options provided. Choose the correct answer by selecting the corresponding letter.",
+    "input": "Which statement expresses an opposite opinion? Options: (A) She’s a fantastic friend, always there to support you when you need it. (B) She’s such a good friend, never around when you need her.",
+    "output": "(B)"
+  },
+  {
+    "instruction": "Answer the question based on the description and options provided. Choose the correct answer by selecting the corresponding letter.",
+    "input": "Which statement expresses an opposite opinion? Options: (A) The weather today is beautiful and sunny. (B) The weather today is terrible and rainy.",
+    "output": "(B)"
+  },
+  {
+    "instruction": "Answer the question based on the description and options provided. Choose the correct answer by selecting the corresponding letter.",
+    "input": "Which statement expresses an opposite opinion? Options: (A) This movie was amazing and worth watching. (B) This movie was terrible and a waste of time.",
+    "output": "(B)"
+  },
+  {
+    "instruction": "Answer the question based on the description and options provided. Choose the correct answer by selecting the corresponding letter.",
+    "input": "Which statement expresses an opposite opinion? Options: (A) The instructions were clear and easy to follow. (B) The instructions were confusing and hard to understand.",
+    "output": "(B)"
+  },
+  {
+    "instruction": "Answer the question based on the description and options provided. Choose the correct answer by selecting the corresponding letter.",
+    "input": "If all cats can climb trees, and a certain animal cannot climb trees, then it cannot be a cat. This is an example of deductive reasoning. Which of the following statements has the same logic? Options: (A) If all dogs can bark, and a certain animal cannot bark, then it cannot be a dog (B) If all birds can fly, and a certain animal cannot fly, then it cannot be a bird (C) If all fish live in water, and a certain animal does not live in water, then it cannot be a fish (D) If all horses have four legs, and a certain animal does not have four legs, then it cannot be a horse",
+    "output": "(A)"
+  },
+  {
+    "instruction": "Answer the question based on the description and options provided. Choose the correct answer by selecting the corresponding letter.",
+    "input": "At a party, if all guests ate cake, and Xiao Ming did not eat cake, then Xiao Ming could not be a guest. Which of the following statements has the same logic? Options: (A) If all students did their homework, and Xiao Hong did not do her homework, then Xiao Hong could not be a student (B) If all employees attended the meeting, and Xiao Li did not attend the meeting, then Xiao Li could not be an employee (C) If all audience members clapped, and Xiao Wang did not clap, then Xiao Wang could not be an audience member (D) If all passengers bought tickets, and Xiao Zhang did not buy a ticket, then Xiao Zhang could not be a passenger",
+    "output": "(B)"
+  },
+  {
+    "instruction": "Answer the question based on the description and options provided. Choose the correct answer by selecting the corresponding letter.",
+    "input": "If a shape is a square, then it has four equal sides. A shape with four equal sides might be a square. This is an example of inductive reasoning. Which of the following statements has the same logic? Options: (A) If a shape is a circle, then all points on it are equidistant from the center. A shape where all points are equidistant from the center might be a circle (B) If an animal is a dog, then it has four legs. An animal with four legs might be a dog (C) If a fruit is an apple, then it is red. A red fruit might be an apple (D) If a plant is a rose, then it has thorns. A plant with thorns might be a rose",
+    "output": "(A)"
+  },
+  {
+    "instruction": "Answer the question based on the description and options provided. Choose the correct answer by selecting the corresponding letter.",
+    "input": "In a logic puzzle, there are three people: a teacher, a student, and a librarian. The teacher is older than the student. The librarian is younger than the teacher. Options: (A) The student is the oldest (B) The teacher is the youngest (C) The librarian is the oldest (D) The student is the youngest (E) The teacher is the oldest (F) The librarian is the youngest",
+    "output": "(E)"
+  },
+  {
+    "instruction": "Answer the question based on the description and options provided. Choose the correct answer by selecting the corresponding letter.",
+    "input": "At a technology conference, there are three speakers: a futurist, an AI researcher, and a data scientist. The futurist speaks before the AI researcher. The data scientist speaks after the AI researcher..Which of the following statements is correct? Options: (A) The futurist speaks last (B) The AI researcher speaks first (C) The data scientist speaks first (D) The futurist speaks second (E) The AI researcher speaks third (F) The data scientist speaks second",
+    "output": "(F)"
+  },
+  {
+    "instruction": "Answer the question based on the description and options provided. Choose the correct answer by selecting the corresponding letter.",
+    "input": "In a causality reasoning scenario, there are four events: a storm, a power outage, a traffic jam, and a delayed flight. The storm causes the power outage. The power outage causes the traffic jam. The traffic jam causes the delayed flight.Which of the following statements directly describes the causal relationship between the events? Options: (A) The storm causes the delayed flight (B) The traffic jam causes the storm (C) The power outage causes the storm (D) The delayed flight causes the traffic jam (E) The storm causes the power outage (F) The traffic jam causes the power outage",
+    "output": "(E)"
+  }
+]
